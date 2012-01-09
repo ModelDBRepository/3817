@@ -106,4 +106,6 @@ of xopen. Lastly, before the gui for each demo is started the previous
 gui is erased with the restart() procedure which was added to
 rundemo.hoc
 
-
+20120109 updated SOLVE method in cadecay.mod to derivimplicit and IM.mod,
+IT.mod to cnexp as per
+http://www.neuron.yale.edu/phpbb/viewtopic.php?f=28&t=592
